@@ -11,7 +11,7 @@
   "dependencies": {
     "@extractus/article-extractor": "^8.0.10",
     "@primer/css": "^21.3.6",
-    "axios": "^1.7.7",
+    "axios": "^1.8.2",
     "cheerio": "^1.0.0",
     "next": "14.2.32",
     "node-html-parser": "^6.1.13",
