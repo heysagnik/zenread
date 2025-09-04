@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@extractus/article-extractor": "^8.0.10",
+    "@extractus/article-extractor": "^8.0.19",
     "@primer/css": "^21.3.6",
     "axios": "^1.7.7",
     "cheerio": "^1.0.0",
